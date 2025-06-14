@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(250, 250, 250);
+}
+
+#tableDiv div{
+    border: 1px solid black;
+    padding: 6px;
+    width: 100px;   
+}
